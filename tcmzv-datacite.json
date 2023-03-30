@@ -1,0 +1,85 @@
+{
+  "contributors": [
+    {
+      "contributorName": "Open Science Framework",
+      "contributorType": "HostingInstitution",
+      "name": "Open Science Framework",
+      "nameIdentifiers": [
+        {
+          "name": "Open Science Framework",
+          "nameIdentifier": "https://ror.org/05d5mza29",
+          "nameIdentifierScheme": "ROR"
+        },
+        {
+          "name": "Open Science Framework",
+          "nameIdentifier": "https://grid.ac/institutes/grid.466501.0/",
+          "nameIdentifierScheme": "GRID"
+        }
+      ],
+      "nameType": "Organizational"
+    }
+  ],
+  "creators": [
+    {
+      "affiliation": [
+        {
+          "SchemeURI": "https://ror.org/",
+          "affiliationIdentifier": "https://ror.org/0190ak572",
+          "affiliationIdentifierScheme": "ROR",
+          "name": "New York University"
+        }
+      ],
+      "name": "Lauren Simon",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://osf.io/jqa78",
+          "nameIdentifierScheme": "URL"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2022-06-25",
+      "dateType": "Created"
+    },
+    {
+      "date": "2022-06-25",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [],
+  "fundingReferences": [],
+  "identifiers": [
+    {
+      "identifier": "",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "https://osf.io/tcmzv",
+      "identifierType": "URL"
+    }
+  ],
+  "publicationYear": "2022",
+  "publisher": "Open Science Framework",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://osf.io/mh4nk",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "rightsList": [],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "subjects": [],
+  "titles": [
+    {
+      "title": "Disability_iat_2021.zip"
+    }
+  ],
+  "types": {
+    "resourceType": "File",
+    "resourceTypeGeneral": "Text"
+  }
+}
